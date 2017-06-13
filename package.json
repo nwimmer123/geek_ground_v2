@@ -27,6 +27,7 @@
     "rails-erb-loader": "^5.0.2",
     "react": "^15.6.0",
     "react-dom": "^15.6.0",
+    "react_ujs": "^2.2.0",
     "resolve-url-loader": "^2.0.2",
     "sass-loader": "^6.0.5",
     "style-loader": "^0.18.2",
